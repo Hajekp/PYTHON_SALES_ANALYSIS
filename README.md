@@ -80,14 +80,6 @@ Eclipse Inc is by far the largest supplier by purchasing spend at ~$1.85M — mo
 
 Eclipse Inc also leads in total product volume at ~29,000 product units, significantly ahead of 3Top Sports (~20,000) and Luna Sastreria S.A. (~11,000). The remaining suppliers sit in a tight band between ~6,000–8,000 units. Eclipse Inc's dominance in both spend and product volume confirms it as the primary supplier relationship for this business — consistent with the spend data in chart 7.
 
-## Setup
-
-1. Clone the repo
-2. Rename `connection_template.py` to `connection.py` and fill in your PostgreSQL credentials
-3. Create a PostgreSQL database and load your data into the 4 normalized tables
-4. Install dependencies: `pip install pandas matplotlib psycopg2-binary`
-5. Run: `python analysis.py`
-
 ## Tools Used
 
 - Python (pandas, matplotlib)
